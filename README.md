@@ -27,7 +27,7 @@ One-shot image recognition is a challenging computer vision task where the goal 
 ## Overview: 
 The core methodology employed in this project is based on Siamese Neural Networks, a specialized type of neural network architecture designed for one-shot image recognition tasks. One-shot learning is a challenging problem where the objective is to recognize new objects or classes with very limited training examples, often just one per class. Siamese networks excel in this context by learning to measure the similarity or dissimilarity between pairs of input images.
 
-![Network](https://github.com/itsdheeraj99/One-shot_learning_Face-recognition/assets/141077081/e64d78a1-4b87-4fcb-8ac5-2ed0cb05b58b)
+![Network](https://github.com/itsdheeraj99/One-shot-learning_Face-recognition/assets/141077081/81d6be07-cd73-49ad-9202-f8b9c9e12f47)
 
 ### Siamese Neural Networks:
 
