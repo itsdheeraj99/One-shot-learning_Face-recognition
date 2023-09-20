@@ -15,7 +15,9 @@ One-shot image recognition is a challenging computer vision task where the goal 
 **Evaluation Metrics:** Comprehensive evaluation metrics have been performed to assess the model's performance, including accuracy, precision, recall, and F1-score.
 
 ## Usage
+- Download the saved model using this drive link - MODEL<https://drive.google.com/drive/folders/1fvhYDo89D0FdS17mYgIr0MhzuXbJ2yme?usp=sharing>
 - Install the required dependencies ```pip install -r requirements.txt```
+- Import the dependencies - tensorflow as tf, numpy as np, pandas as pd. 
 - Load the model ```FaceID_model = tf.keras.models.load_model('Final_FACEID_model')```
 - Create a folder ``application_data`` 
 - further create two folders ``input_images`` and ``verification_images`` within this folder. 
